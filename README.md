@@ -37,7 +37,7 @@ $ vi .env
 
 - SLACK_CHANNEL="@xxx"
 - SLACK_CHANNEL_AND_MENTION_CHANNEL="@notify_datadog <!channel>"
-+ SLACK_CHANNEL="@xxx"
++ SLACK_CHANNEL="@notify_datadog"
 + SLACK_CHANNEL_AND_MENTION_CHANNEL="@notify_datadog <!channel>"
 ```
   
